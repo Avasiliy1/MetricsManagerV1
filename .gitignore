@@ -3,3 +3,10 @@
 ################################################################################
 
 /MetricsAgent/obj
+/MetricsAgentTests/obj
+/MetricsManager/MetricsManager/obj
+/MetricsManager/MetricsManagerTests/obj
+/MetricsAgent/bin/Debug/netcoreapp3.1
+/MetricsAgentTests/bin/Debug/netcoreapp3.1
+/MetricsManager/MetricsManager/bin/Debug/netcoreapp3.1
+/MetricsManager/MetricsManagerTests/bin/Debug/netcoreapp3.1
